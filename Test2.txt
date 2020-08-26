@@ -1,3 +1,4 @@
 这里的房子要买完 
 本地二次修改git add. , git commit -m '' ,git push
-远程修改 
+远程修改 git pull 
+本地克隆  使用 git clone url 就可以获取到 git远程仓库
