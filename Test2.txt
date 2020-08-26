@@ -7,5 +7,5 @@
 分支合并 跳转到主分支再合并  git checkout master  , git merge 分支名 
 分支跳转 git checkout 分支名
 分支删除 git branch -d 分支名
-
+查看所有分支 git branch
 
