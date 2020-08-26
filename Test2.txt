@@ -2,3 +2,10 @@
 本地二次修改git add. , git commit -m '' ,git push
 远程修改 git pull 
 本地克隆  使用 git clone url 就可以获取到 git远程仓库
+创建分支 git branch 分支名  不会跳到分支
+              git checkout -b 分支名 直接创建并跳到分支上
+分支合并 跳转到主分支再合并  git checkout master  , git merge 分支名 
+分支跳转 git checkout 分支名
+分支删除 git branch -d 分支名
+
+
